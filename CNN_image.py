@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
-
-manish luthyagi
+Ayush Sharma
 """
 
 # importing the libraries
